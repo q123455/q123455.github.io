@@ -1,0 +1,40 @@
+.jumbotron{
+    background: url(tu/1.0.png) no-repeat;
+    border-radius: 0;
+    height: 900px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    text-align: center;
+    }
+.box6{height: 500px;
+    padding-top: 130px；
+}
+h2{color: rgb(0, 0, 0)}
+h3{color: rgb(252, 252, 252)}
+.box1{text-align: center}
+.p-middle{
+    color: aliceblue;width: 70%;margin: 0 auto;"
+}
+
+.dd{color: rgb(252, 252, 252)
+}
+.img-hover{
+    position: absolute;
+    width: 1394px;
+    height:160px;
+    background: red;
+    top:0;
+    opacity: 0;
+  }
+  .img-hover:hover{
+      opacity: 0.5;
+      transition-duration:1s;
+ }
+ .sss{margin: 0%;
+    border:0px;
+    background:white;
+    padding:7%;
+    font-size: 30px;  }
+.footer{color: rgb(255, 255, 255)
+    }
